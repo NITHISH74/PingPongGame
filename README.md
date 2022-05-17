@@ -205,7 +205,7 @@ public class Ball : MonoBehaviour
 
  
  ## Result:
- Thus, a ping pong game was developed using C# program in unity .
+ Thus, a ping pong game was developed using C# program in unity.
 
 
 
